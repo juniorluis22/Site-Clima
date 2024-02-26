@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Clima
-</p>
+</h1>
 
 <p align="center">
   <img alt="Clima" src="./public/IMG/PROJETOCLIMA.png" width="100%">
